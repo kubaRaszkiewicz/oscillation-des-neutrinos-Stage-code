@@ -16,8 +16,8 @@ oscillation-des-neutrinos-Stage-code/
 
 ├── fluxtask.ipynb # code sur la familiarisation des outils de l'analyse.
 
-├── hypersurface.ipynb # code de l'analyse final pour récupérer les paramètres ajustés avec la correction des hypersurface.
+├── hypersurface.ipynb # code de l'analyse final pour récupérer les paramètres ajustés avec hypersurface.
 
-├── sanshypersurface.ipynb # code de l'analyse final pour récupérer les paramètres ajustés sans la correction des hypersurface.
+├── sanshypersurface.ipynb # code de l'analyse final pour récupérer les paramètres ajustés sans hypersurface.
 
 └── README.md
